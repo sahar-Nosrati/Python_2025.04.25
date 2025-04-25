@@ -1,0 +1,7 @@
+- shallow copy -> A shallow copy occurs when you copy the reference of an object to a new variable. Only the top-level properties are copied, while nested objects or arrays still reference the original memory location
+
+- different types of errors in python ->
+  - index error -> index is out of range
+  - NameError: name 'pri' is not defined
+  - SyntaxError: invalid syntax
+  - ValueError: too many values to unpack (expected 3)
